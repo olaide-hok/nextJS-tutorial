@@ -1,7 +1,7 @@
 import prisma from '@/utils/db';
 
 const prismaHandlers = async () => {
-    console.log('prisma example');
+    // console.log('prisma example');
     // await prisma.task.create({
     //     data: {
     //         content: 'wake up',
